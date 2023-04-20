@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Interview App</string>
+    <string-array name="simple_que">
+        <item>What Android means?</item>
+        <item>What is Android and why it is used?</item>
+        <item>What is Android and iOS?</item>
+        <item>Is Android a phone or OS?</item>
+        <item>Where is Android mostly used?</item>
+        <item>What are the Android components?</item>
+        <item>What is iOS full form?</item>
+        <item>How many types of Android phones are there?</item>
+        <item>What are three features of Android?</item>
+        <item>What is Android life cycle?</item>
+    </string-array>
+    <string-array name="simple_ans">
+        <item>An Android phone is a powerful, high-tech smartphone that runs on the Android operating system (OS) developed by Google and is used by a variety of mobile phone manufacturers.</item>
+        <item>The Android operating system is a mobile operating system that was developed by Google to be primarily used for touchscreen devices, cell phones, and tablets.</item>
+        <item>Google Android and Apple iOS are operating systems used primarily in mobile technology, such as smartphones and tablets.</item>
+        <item>Android is an OS created by Google® for use on mobile devices, such as smartphones and tablets. It is available on devices made by a variety of manufacturers, giving you more choices of device style and pricing.</item>
+        <item>Even though in mature markets user growth has stagnated, Android has continued to grow at a remarkable rate through its popularity in developing countries. In Brazil, India, Indonesia, Turkey and Vietnam, Android has over 85% market share.</item>
+        <item>The core building blocks or fundamental components of android are activities, views, intents, services, content providers, fragments and AndroidManifest. xml.</item>
+        <item>The full form of IOS is i-Phone operating system. IOS is the operating system used by Apple in their devices. The first i-Phone has been launched in 2007 and in 2022 the IOS introduced its 15th version.</item>
+        <item>There are now nearly 1,300 brands that have produced over 24,000 distinct Android devices.Google Play offers over 1 million apps for Android devices from developers all over the world.</item>
+        <item>Android devices can include still/video cameras, touchscreens, GPS, accelerometers, gyroscopes, barometers, magnetometers, dedicated gaming controls, proximity and pressure sensors, thermometer and accelerated 2D bit blits. </item>
+        <item>An Android activity goes through six major lifecycle stages or callbacks. These are: onCreate() , onStart() , onResume() , onPause() , onStop() , and onDestroy() . The system invokes each of these callbacks as an activity enters a new state.</item>
+    </string-array>
+
+    <string-array name="tough_que">
+        <item>How many types of Android phones are there?</item>
+        <item>What is Android life cycle?</item>
+        <item>What is iOS full form?</item>
+        <item>What are three features of Android?</item>
+        <item>What Android means?</item>
+        <item>What is Android and why it is used?</item>
+        <item>What is Android and iOS?</item>
+        <item>Is Android a phone or OS?</item>
+        <item>Where is Android mostly used?</item>
+        <item>What are the Android components?</item>
+
+
+    </string-array>
+
+    <string-array name="tough_ans">
+      <item>There are now nearly 1,300 brands that have produced over 24,000 distinct Android devices.Google Play offers over 1 million apps for Android devices from developers all over the world.</item>
+        <item>An Android activity goes through six major lifecycle stages or callbacks. These are: onCreate() , onStart() , onResume() , onPause() , onStop() , and onDestroy() . The system invokes each of these callbacks as an activity enters a new state.</item>
+        <item>The full form of IOS is i-Phone operating system. IOS is the operating system used by Apple in their devices. The first i-Phone has been launched in 2007 and in 2022 the IOS introduced its 15th version.</item>
+        <item>Android devices can include still/video cameras, touchscreens, GPS, accelerometers, gyroscopes, barometers, magnetometers, dedicated gaming controls, proximity and pressure sensors, thermometer and accelerated 2D bit blits. </item>
+        <item>An Android phone is a powerful, high-tech smartphone that runs on the Android operating system (OS) developed by Google and is used by a variety of mobile phone manufacturers.</item>
+        <item>The Android operating system is a mobile operating system that was developed by Google to be primarily used for touchscreen devices, cell phones, and tablets.</item>
+        <item>Google Android and Apple iOS are operating systems used primarily in mobile technology, such as smartphones and tablets.</item>
+        <item>Android is an OS created by Google® for use on mobile devices, such as smartphones and tablets. It is available on devices made by a variety of manufacturers, giving you more choices of device style and pricing.</item>
+        <item>Even though in mature markets user growth has stagnated, Android has continued to grow at a remarkable rate through its popularity in developing countries. In Brazil, India, Indonesia, Turkey and Vietnam, Android has over 85% market share.</item>
+        <item>The core building blocks or fundamental components of android are activities, views, intents, services, content providers, fragments and AndroidManifest. xml.</item>
+    </string-array>
+
+
+
+</resources>
